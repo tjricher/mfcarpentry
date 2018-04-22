@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/tjricher/mfcarpentry/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Mustache Benny](https://raw.githubusercontent.com/tjricher/mfcarpentry/master/Benny2.jpg)
+![Benny](https://raw.githubusercontent.com/tjricher/mfcarpentry/master/Benny1.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
