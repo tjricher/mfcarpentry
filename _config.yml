@@ -1,1 +1,4 @@
-theme: jekyll-theme-tactile
+
+    ```yml
+    theme: jekyll-theme-tactile
+    ```
