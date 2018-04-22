@@ -1,8 +1,3 @@
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
-
 ## Merrihew Fine Carpentry
 
 You can use the [editor on GitHub](https://github.com/tjricher/mfcarpentry/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
